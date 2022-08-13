@@ -1,1 +1,1 @@
-web: gunicord codestarproject2022.wsgi
+web: gunicord codestar.wsgi
